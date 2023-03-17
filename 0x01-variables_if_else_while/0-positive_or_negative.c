@@ -5,8 +5,7 @@
 
 /* betty style doc for function main goes there
  * main function Entry 
- * if function to be used
- **/
+ * if function to be used*/
 int main(void)
 {
 	int n;
