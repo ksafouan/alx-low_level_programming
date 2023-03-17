@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main entry point combination of three digit numbers
+ * main -  entry point combination of three digit numbers
  *
  * return always 0
  */
