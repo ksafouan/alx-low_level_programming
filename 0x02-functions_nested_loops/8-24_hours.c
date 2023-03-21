@@ -2,7 +2,7 @@
 
 /**
  * jack_bauer - check description
- * description: prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59
+ * description: prints a day's count
  * Return: nothing
  */
 void jack_bauer(void)
