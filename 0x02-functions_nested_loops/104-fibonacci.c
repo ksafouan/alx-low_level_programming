@@ -3,6 +3,7 @@
 /**
  * main - check description
  * description: prints the first 98 fibonacci
+ * Return: always 0
  */
 int main(void)
 {
