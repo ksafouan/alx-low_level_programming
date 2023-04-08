@@ -9,8 +9,8 @@
  */
 int main(int argc, char *argv[])
 {
-	if (argc > 0)
-		printf("%d\n", argc);
+	while (argc--)
+		printf("%s\n", *argv++);
 
 	return (0);
 }
